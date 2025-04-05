@@ -1,7 +1,7 @@
 # 🛡️ secdata-lab
 
 **secdata-lab** es un laboratorio abierto para la limpieza, análisis y visualización de datos con foco en **ciberseguridad**.  
-Este proyecto nace del interés por transformar datos públicos (como los obtenidos desde plataformas como [CAGUEL](https://www.caguel.org/) o el API de NIST) en conocimiento útil, accesible y aplicable para la comunidad.
+Este proyecto nace del interés por transformar datos públicos (como los obtenidos desde plataformas como [Kaggle](https://www.kaggle.com/) o el API de NIST) en conocimiento útil, accesible y aplicable para la comunidad.
 
 ---
 
@@ -17,7 +17,7 @@ Crear una colección de notebooks, scripts y recursos para:
 
 ## 📊 ¿Qué encontrarás aquí?
 
-- 📁 **Datos públicos** descargados desde fuentes abiertas (como CAGUEL o NIST)
+- 📁 **Datos públicos** descargados desde fuentes abiertas (como Kaggle o NIST)
 - 🧹 **Procesos de limpieza** con pandas y Python puro
 - 📈 **Gráficas y visualizaciones** para facilitar la lectura de datos
 - 🧠 Ideas de cómo aplicar ciencia de datos a temas como:
